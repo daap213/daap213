@@ -23,7 +23,7 @@ Soy ecuatoriano, Ingeniero Mecatrónico apasionado por el mundo tecnológico y c
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,astro,laravel,nodejs&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,androidstudio,npm,opencv,tensorflow,sklearn,pycharm,vscode,replit,blender,notion&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,androidstudio,npm,opencv,sklearn,pycharm,vscode,replit,blender,notion&perline=12)](https://skillicons.dev)
 
 
 ## Contacto:
@@ -32,8 +32,6 @@ Soy ecuatoriano, Ingeniero Mecatrónico apasionado por el mundo tecnológico y c
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AprendeIngenia">
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daap213&layout=compact&langs_count=8&theme=algolia"/>
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daap213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
 </p>
