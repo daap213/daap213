@@ -13,17 +13,18 @@ Soy ecuatoriano, Ingeniero Mecatrónico apasionado por el mundo tecnológico y c
 ### Lenguajes:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,raspberrypi,arduino,matlab,cpp&perline=10)](https://skillicons.dev)
 
+### Dases de datos:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=9)](https://skillicons.dev)
+
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,autocad&perline=9)](https://skillicons.dev)
-
-### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,androidstudio,npm,opencv,tensorflow,sklearn,pycharm,vscode,replit,blender,notion&perline=9)](https://skillicons.dev)
 
 ### Framework y librerias:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,astro,laravel,nodejs&perline=9)](https://skillicons.dev)
 
-### Dases de datos:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=9)](https://skillicons.dev)
+### Software y herramientas:
+[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,androidstudio,npm,opencv,tensorflow,sklearn,pycharm,vscode,replit,blender,notion&perline=12)](https://skillicons.dev)
+
 
 ## Contacto:
 <a href="mailto:daniel.alvardo.1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Enviar correo-blue?style=flat-square&logo=gmail"></a>
